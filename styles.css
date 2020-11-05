@@ -1,0 +1,24 @@
+body{
+    background: #faace1;
+}
+
+#btn{
+    width: 600px;
+    height: 300px;
+    background: #47cb4a;
+    border-radius: 50%;
+    margin: 30px auto;
+    text-align: center;
+    line-height: 300px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 50px;
+    cursor: pointer;
+    box-shadow: 0 20px 0 #1f5820;
+    user-select: none;
+}
+
+#btn:active {
+    box-shadow: 0 10px 0 #1f5820;
+    margin-top: 45px;
+}
