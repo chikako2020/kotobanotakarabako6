@@ -1,2 +1,2 @@
 # kotobanotakarabako6
-ことばのたからばこ6
+ことばのたからばこ6年生
